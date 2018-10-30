@@ -1,12 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Home || Kena Becha </title>
+<title>Baynama || বায়নামা </title>
 <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
  	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css" />
+<!-- 	<link rel="stylesheet" href="assets/made/css/popup-note.css" />-->
   <link rel="stylesheet" href="assets/style.css"/>
+<!--  <script src="assets/made/js/popup-note.js"></script>-->
+    
+<!--
+    <script src="sweetalert2.all.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/promise-polyfill"></script>
+-->
+    
   <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
 	<script src="assets/bootstrap/js/bootstrap.js"></script>
   <script src="assets/script.js"></script>
@@ -30,7 +38,73 @@
 
 </head>
 
-<body>
+<body onload="functionAlert()">
+    
+<!--    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
+    <script>
+        function functionAlert(msg, myYes) {
+            var confirmBox = $("#confirm");
+            confirmBox.find(".message").text(msg);
+            confirmBox.find(".yes").unbind().click(function() {
+                confirmBox.hide();
+            });
+            confirmBox.find(".yes").click(myYes);
+            confirmBox.show();
+        }
+    </script>
+    <style>
+        #confirm {
+            display: none;
+/*            background-color: #91FF00;*/
+/*            border: 1px solid #aaa;*/
+/*            position: fixed;*/
+/*            width: 250px;*/
+/*            left: 50%;*/
+/*            margin-left: -100px;*/
+            padding: 6px 8px 8px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+        #confirm button {
+/*            background-color: #48E5DA;*/
+            display: inline-block;
+            border-radius: 5px;
+/*            border: 1px solid #aaa;*/
+            padding: 5px;
+            text-align: center;
+            width: 80px;
+            cursor: pointer;
+        }
+        #confirm .message {
+            font-size: 30px;
+            margin: 15px;
+/*            text-align: left;*/
+        }
+    </style>
+    <div id = "confirm" class="alert alert-info fade in">
+        <div class = "message">This is a warning message.</div>
+        <button class = "yes">OK</button>
+    </div>
+<!--
+    <script>
+        function myFunction() {
+            alert("Page is loaded");
+//            swal({
+//                title: 'Error!',
+//                text: 'Do you want to continue',
+//                type: 'error',
+//                confirmButtonText: 'Cool'
+//            })
+        }
+    </script>
+-->
+    
+    <div class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h1>Hello, I am a modal!</h1>
+        </div>
+    </div>
 
 
 <!-- Header Starts -->
