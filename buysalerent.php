@@ -28,10 +28,10 @@
             <div class="col-lg-7">
               <select class="form-control">
                 <option>Price</option>
-                <option>$150,000 - $200,000</option>
-                <option>$200,000 - $250,000</option>
-                <option>$250,000 - $300,000</option>
-                <option>$300,000 - above</option>
+                <option>&#2547;150,000 - &#2547;200,000</option>
+                <option>&#2547;200,000 - &#2547;250,000</option>
+                <option>&#2547;250,000 - &#2547;300,000</option>
+                <option>&#2547;300,000 - above</option>
               </select>
             </div>
           </div>
@@ -57,28 +57,28 @@
 <div class="row">
                 <div class="col-lg-4 col-sm-5"><img src="images/properties/1.jpg" class="img-responsive img-circle" alt="properties"></div>
                 <div class="col-lg-8 col-sm-7">
-                  <h5><a href="property-detail.php">Integer sed porta quam</a></h5>
-                  <p class="price">$300,000</p> </div>
+                  <h5><a href="database_error.php">Integer sed porta quam</a></h5>
+                  <p class="price">&#2547;300,000</p> </div>
               </div>
 <div class="row">
                 <div class="col-lg-4 col-sm-5"><img src="images/properties/1.jpg" class="img-responsive img-circle" alt="properties"></div>
                 <div class="col-lg-8 col-sm-7">
-                  <h5><a href="property-detail.php">Integer sed porta quam</a></h5>
-                  <p class="price">$300,000</p> </div>
-              </div>
-
-<div class="row">
-                <div class="col-lg-4 col-sm-5"><img src="images/properties/1.jpg" class="img-responsive img-circle" alt="properties"></div>
-                <div class="col-lg-8 col-sm-7">
-                  <h5><a href="property-detail.php">Integer sed porta quam</a></h5>
-                  <p class="price">$300,000</p> </div>
+                  <h5><a href="database_error.php">Integer sed porta quam</a></h5>
+                  <p class="price">&#2547;300,000</p> </div>
               </div>
 
 <div class="row">
                 <div class="col-lg-4 col-sm-5"><img src="images/properties/1.jpg" class="img-responsive img-circle" alt="properties"></div>
                 <div class="col-lg-8 col-sm-7">
-                  <h5><a href="property-detail.php">Integer sed porta quam</a></h5>
-                  <p class="price">$300,000</p> </div>
+                  <h5><a href="database_error.php">Integer sed porta quam</a></h5>
+                  <p class="price">&#2547;300,000</p> </div>
+              </div>
+
+<div class="row">
+                <div class="col-lg-4 col-sm-5"><img src="images/properties/1.jpg" class="img-responsive img-circle" alt="properties"></div>
+                <div class="col-lg-8 col-sm-7">
+                  <h5><a href="database_error.php">Integer sed porta quam</a></h5>
+                  <p class="price">&#2547;300,000</p> </div>
               </div>
 
 </div>
@@ -105,10 +105,10 @@
         <div class="image-holder"><img src="images/properties/1.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">Royal Inn</a></h4>
-        <p class="price">Price: $234,900</p>
+        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
-        <a class="btn btn-primary" href="property-detail.php">View Details</a>
+        <a class="btn btn-primary" href="database_error.php">View Details</a>
       </div>
       </div>
       <!-- properties -->
@@ -120,10 +120,10 @@
         <div class="image-holder"><img src="images/properties/2.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">Royal Inn</a></h4>
-        <p class="price">Price: $234,900</p>
+        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
-        <a class="btn btn-primary" href="property-detail.php">View Details</a>
+        <a class="btn btn-primary" href="database_error.php">View Details</a>
       </div>
       </div>
       <!-- properties -->
@@ -134,10 +134,10 @@
         <div class="image-holder"><img src="images/properties/3.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">Royal Inn</a></h4>
-        <p class="price">Price: $234,900</p>
+        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
-        <a class="btn btn-primary" href="property-detail.php">View Details</a>
+        <a class="btn btn-primary" href="database_error.php">View Details</a>
       </div>
       </div>
       <!-- properties -->
@@ -148,10 +148,10 @@
         <div class="image-holder"><img src="images/properties/1.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">Royal Inn</a></h4>
-        <p class="price">Price: $234,900</p>
+        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
-        <a class="btn btn-primary" href="property-detail.php">View Details</a>
+        <a class="btn btn-primary" href="database_error.php">View Details</a>
       </div>
       </div>
       <!-- properties -->
@@ -162,10 +162,10 @@
         <div class="image-holder"><img src="images/properties/4.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">Royal Inn</a></h4>
-        <p class="price">Price: $234,900</p>
+        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
-        <a class="btn btn-primary" href="property-detail.php">View Details</a>
+        <a class="btn btn-primary" href="database_error.php">View Details</a>
       </div>
       </div>
       <!-- properties -->
@@ -176,10 +176,10 @@
         <div class="image-holder"><img src="images/properties/1.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">Royal Inn</a></h4>
-        <p class="price">Price: $234,900</p>
+        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
-        <a class="btn btn-primary" href="property-detail.php">View Details</a>
+        <a class="btn btn-primary" href="database_error.php">View Details</a>
       </div>
       </div>
       <!-- properties -->
@@ -190,10 +190,10 @@
         <div class="image-holder"><img src="images/properties/4.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">Royal Inn</a></h4>
-        <p class="price">Price: $234,900</p>
+        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
-        <a class="btn btn-primary" href="property-detail.php">View Details</a>
+        <a class="btn btn-primary" href="database_error.php">View Details</a>
       </div>
       </div>
       <!-- properties -->
@@ -204,10 +204,10 @@
         <div class="image-holder"><img src="images/properties/3.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">Royal Inn</a></h4>
-        <p class="price">Price: $234,900</p>
+        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
-        <a class="btn btn-primary" href="property-detail.php">View Details</a>
+        <a class="btn btn-primary" href="database_error.php">View Details</a>
       </div>
       </div>
       <!-- properties -->
@@ -218,10 +218,10 @@
         <div class="image-holder"><img src="images/properties/2.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">Royal Inn</a></h4>
-        <p class="price">Price: $234,900</p>
+        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
-        <a class="btn btn-primary" href="property-detail.php">View Details</a>
+        <a class="btn btn-primary" href="database_error.php">View Details</a>
       </div>
       </div>
       <!-- properties -->
@@ -231,10 +231,10 @@
         <div class="image-holder"><img src="images/properties/1.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">Royal Inn</a></h4>
-        <p class="price">Price: $234,900</p>
+        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
-        <a class="btn btn-primary" href="property-detail.php">View Details</a>
+        <a class="btn btn-primary" href="database_error.php">View Details</a>
       </div>
       </div>
       <!-- properties -->
@@ -245,10 +245,10 @@
         <div class="image-holder"><img src="images/properties/4.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">Royal Inn</a></h4>
-        <p class="price">Price: $234,900</p>
+        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
-        <a class="btn btn-primary" href="property-detail.php">View Details</a>
+        <a class="btn btn-primary" href="database_error.php">View Details</a>
       </div>
       </div>
       <!-- properties -->
@@ -259,10 +259,10 @@
         <div class="image-holder"><img src="images/properties/3.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">Royal Inn</a></h4>
-        <p class="price">Price: $234,900</p>
+        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
-        <a class="btn btn-primary" href="property-detail.php">View Details</a>
+        <a class="btn btn-primary" href="database_error.php">View Details</a>
       </div>
       </div>
       <!-- properties -->

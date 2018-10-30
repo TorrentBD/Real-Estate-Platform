@@ -58,11 +58,11 @@
 
 <div class="col-lg-9 col-sm-8 ">
 
-<h2>The Site Is Under Construction.  Very Soon It will be run properly.  </h2>
+<h2>This site is under construction.  </h2>
 <div class="row">
   <div class="col-lg-8">
-    <h1> <p style="color: red;">Please call us on <br><i class="glyphicon glyphicon-phone-alt"></i>
-<button>01887323311</button></p></h1>
+    <h1> <p style="color: red;">For details please contact. <br></p><i style="color: green;" class="glyphicon glyphicon-phone-alt"></i>
+<button href="tel:01887323311"> 01887323311 </button></h1>
   </div>
   <div class="col-lg-8">
    

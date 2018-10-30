@@ -38,8 +38,8 @@
                     <h4>Contact us</h4>
                     <p><b>Bootstrap Realestate Inc.</b><br>
 <span class="glyphicon glyphicon-map-marker"></span> Rajshahi , Bangladesh <br>
-<span class="glyphicon glyphicon-envelope"></span> kena_becha@gmail.com<br>
-<span class="glyphicon glyphicon-earphone"></span> 80 1740 487816</p>
+<span class="glyphicon glyphicon-envelope"></span> <a href="mailto:info@baynam@gmail.com?Subject=Site%20mail" target="_top">info@baynam@gmail.com</a><br>
+<span class="glyphicon glyphicon-earphone"></span> <a href="tel:01887323311">+880-1887-323311</a></p>
             </div>
         </div>
 <p class="copyright">Copyright 2018. All rights reserved.	</p>

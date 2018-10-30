@@ -70,20 +70,33 @@
             display: inline-block;
             border-radius: 5px;
 /*            border: 1px solid #aaa;*/
+            margin: 5px;
             padding: 5px;
             text-align: center;
             width: 80px;
             cursor: pointer;
         }
         #confirm .message {
+            font-family: sans-serif;
+            width: auto;
             font-size: 30px;
             margin: 15px;
 /*            text-align: left;*/
         }
+        #confirm .yes {
+            font-size: 40px;
+        }
     </style>
     <div id = "confirm" class="alert alert-info fade in">
-        <div class = "message">This is a warning message.</div>
-        <button class = "yes">OK</button>
+        <div class = "message">This site is under construction.</div>
+        <h2 class="message">For details please contact.</h2>
+        <a class="message btn btn-primary" href="mailto:info@baynam@gmail.com?Subject=Site%20mail" target="_top">E-mail: info@baynam@gmail.com</a>
+        <br>
+<!--        <p>Email: info@baynam@gmail.com</p>-->
+        <a class="message btn btn-primary" href="tel:01887323311">Call: +880-1887-323311</a>
+        <br>
+<!--        <p>Phone No. 01887323311</p>-->
+        <button class = "yes btn btn-primary">OK</button>
     </div>
 <!--
     <script>
