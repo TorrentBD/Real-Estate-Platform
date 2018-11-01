@@ -174,12 +174,18 @@
 	background: rgba(255,255,255,0.8);
 }
 
+
+.spacelist{
+	left: 200px;
+
+}
+
 /* Content elements */
 
 
 
  .bg-img-1 {
-	background-image: url(../../../images/slider/1.png);
+	background-image: url(../../../images/slider/1.jpg);
 }
  .bg-img-2 {
 	background-image: url(../../../images/slider/2.jpg);

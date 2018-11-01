@@ -12,7 +12,7 @@
                    <h4>Information</h4>
                    <ul class="row">
                 <li class="col-lg-12 col-sm-12 col-xs-3"><a href="about.php">About</a></li>
-                <li class="col-lg-12 col-sm-12 col-xs-3"><a href="agents.php">Agents</a></li>         
+                <!--<li class="col-lg-12 col-sm-12 col-xs-3"><a href="agents.php">Agents</a></li>   -->      
                 <li class="col-lg-12 col-sm-12 col-xs-3"><a href="blog.php">Blog</a></li>
                 <li class="col-lg-12 col-sm-12 col-xs-3"><a href="contact.php">Contact</a></li>
               </ul>
@@ -38,7 +38,7 @@
                     <h4>Contact us</h4>
                     <p><b>Bootstrap Realestate Inc.</b><br>
 <span class="glyphicon glyphicon-map-marker"></span> Rajshahi , Bangladesh <br>
-<span class="glyphicon glyphicon-envelope"></span> <a href="mailto:info@baynam@gmail.com?Subject=Site%20mail" target="_top">info@baynam@gmail.com</a><br>
+<span class="glyphicon glyphicon-envelope"></span> <a href="mailto:info@baynam@gmail.com?Subject=Site%20mail" target="_top">info@baynama.com</a><br>
 <span class="glyphicon glyphicon-earphone"></span> <a href="tel:01887323311">+880-1887-323311</a></p>
             </div>
         </div>

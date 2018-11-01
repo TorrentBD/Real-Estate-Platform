@@ -62,7 +62,7 @@
 <div class="row">
   <div class="col-lg-8">
     <h1> <p style="color: red;">For details please contact. <br></p><i style="color: green;" class="glyphicon glyphicon-phone-alt"></i>
-<button href="tel:01887323311"> 01887323311 </button></h1>
+<a type="btn" class="message btn btn-primary" style="width: auto;" href="tel:01887323311">Call: +880-1887-323311</a></h1>
   </div>
   <div class="col-lg-8">
    

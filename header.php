@@ -79,7 +79,7 @@
         #confirm .message {
             font-family: sans-serif;
             width: auto;
-            font-size: 30px;
+            font-size: 20px;
             margin: 15px;
 /*            text-align: left;*/
         }
@@ -90,7 +90,7 @@
     <div id = "confirm" class="alert alert-info fade in">
         <div class = "message">This site is under construction.</div>
         <h2 class="message">For details please contact.</h2>
-        <a class="message btn btn-primary" href="mailto:info@baynam@gmail.com?Subject=Site%20mail" target="_top">E-mail: info@baynam@gmail.com</a>
+        <a class="message btn btn-primary" href="mailto:info@baynam@gmail.com?Subject=Site%20mail" target="_top">E-mail:<wbr/> info@baynama.com</a>
         <br>
 <!--        <p>Email: info@baynam@gmail.com</p>-->
         <a class="message btn btn-primary" href="tel:01887323311">Call: +880-1887-323311</a>
@@ -143,7 +143,7 @@
               <ul class="nav navbar-nav navbar-right">
                <li class="active"><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
-                <li><a href="agents.php">Agents</a></li>         
+                <!--<li><a href="agents.php">Agents</a></li>-->         
                 <li><a href="blog.php">Blog</a></li>
                 <li><a href="contact.php">Contact</a></li>
               </ul>
@@ -167,7 +167,7 @@
 <a href="index.php"><img src="images/logo.png" alt="Realestate"></a>
 
               <ul class="pull-right">
-                <li><a href="buysalerent.php">Buy</a></li>
+                <li><a href="buysalerent.php">Post Property</a></li>
                 <li><a href="buysalerent.php">Sale</a></li>         
                 <li><a href="buysalerent.php">Rent</a></li>
               </ul>

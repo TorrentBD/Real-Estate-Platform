@@ -105,7 +105,7 @@
         <div class="image-holder"><img src="images/properties/1.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <h4><a href="database_error.php">baynama.com Inc</a></h4>
         <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="database_error.php">View Details</a>
@@ -120,7 +120,7 @@
         <div class="image-holder"><img src="images/properties/2.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <h4><a href="database_error.php">baynama.com Inc</a></h4>
         <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="database_error.php">View Details</a>
@@ -134,7 +134,7 @@
         <div class="image-holder"><img src="images/properties/3.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <h4><a href="database_error.php">baynama.com Inc</a></h4>
         <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="database_error.php">View Details</a>
@@ -148,7 +148,7 @@
         <div class="image-holder"><img src="images/properties/1.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <h4><a href="database_error.php">baynama.com Inc</a></h4>
         <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="database_error.php">View Details</a>
@@ -162,7 +162,7 @@
         <div class="image-holder"><img src="images/properties/4.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <h4><a href="database_error.php">baynama.com Inc</a></h4>
         <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="database_error.php">View Details</a>
@@ -176,7 +176,7 @@
         <div class="image-holder"><img src="images/properties/1.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <h4><a href="database_error.php">baynama.com Inc</a></h4>
         <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="database_error.php">View Details</a>
@@ -190,7 +190,7 @@
         <div class="image-holder"><img src="images/properties/4.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <h4><a href="database_error.php">baynama.com Inc</a></h4>
         <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="database_error.php">View Details</a>
@@ -204,7 +204,7 @@
         <div class="image-holder"><img src="images/properties/3.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <h4><a href="database_error.php">baynama.com Inc</a></h4>
         <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="database_error.php">View Details</a>
@@ -218,7 +218,7 @@
         <div class="image-holder"><img src="images/properties/2.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <h4><a href="database_error.php">baynama.com Inc</a></h4>
         <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="database_error.php">View Details</a>
@@ -231,7 +231,7 @@
         <div class="image-holder"><img src="images/properties/1.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <h4><a href="database_error.php">baynama.com Inc</a></h4>
         <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="database_error.php">View Details</a>
@@ -245,7 +245,7 @@
         <div class="image-holder"><img src="images/properties/4.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <h4><a href="database_error.php">baynama.com Inc</a></h4>
         <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="database_error.php">View Details</a>
@@ -259,7 +259,7 @@
         <div class="image-holder"><img src="images/properties/3.jpg" class="img-responsive" alt="properties">
           <div class="status sold">Sold</div>
         </div>
-        <h4><a href="property-detail.php">baynama.com Inc</a></h4>
+        <h4><a href="database_error.php">baynama.com Inc</a></h4>
         <p class="price">Price: &#2547;234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="database_error.php">View Details</a>
