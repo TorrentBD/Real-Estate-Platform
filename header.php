@@ -167,7 +167,7 @@
 <a href="index.php"><img src="images/logo.png" alt="Realestate"></a>
 
               <ul class="pull-right">
-                <li><a href="buysalerent.php">Post Property</a></li>
+                <li><a href="blog.php">Post Property</a></li>
                 <li><a href="buysalerent.php">Sale</a></li>         
                 <li><a href="buysalerent.php">Rent</a></li>
               </ul>
